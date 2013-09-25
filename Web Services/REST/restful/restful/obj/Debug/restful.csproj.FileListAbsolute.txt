@@ -1,0 +1,5 @@
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\bin\restful.dll
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\bin\restful.pdb
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\obj\Debug\restful.dll
+c:\users\naveen\documents\visual studio 2010\Projects\restful\restful\obj\Debug\restful.pdb
+C:\Users\naveen\Documents\Visual Studio 2010\Projects\restful\restful\obj\Debug\restful.csprojResolveAssemblyReference.cache
